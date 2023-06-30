@@ -1,4 +1,4 @@
-import { UserDetails } from "../src/types/user"
+import { UserDetails } from "../types/user"
 import { initialState } from "../context/AuthContext";
 
 
